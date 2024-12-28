@@ -13,15 +13,10 @@ Welcome to my **Portfolio** project! This is a personal website showcasing my sk
 ## Technologies Used
 
 - **Frontend**: HTML, CSS, JavaScript
-- **Frameworks/Libraries**: React.js (if applicable)
-- **Backend**: Node.js (if applicable)
-- **Styling**: Tailwind CSS/Bootstrap (if applicable)
-- **Deployment**: Hosted on platforms like Vercel, Netlify, or GitHub Pages.
+- **Styling**: Bootstrap 
+- **Deployment**: Hosted on platforms Netlify
 
-## Screenshots
 
-![Home Page](screenshots/home.png)
-![Projects Section](screenshots/projects.png)
 
 ## Future Enhancements
 
